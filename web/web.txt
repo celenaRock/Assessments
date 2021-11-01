@@ -1,0 +1,4 @@
+//**How does the internet work? What happens when you click on a link? **
+
+A request is sent using IP Adressess to access data from parts of a URL. Protocol, hostname, resource, and query arguments fetch the data in human language so that we can obtain the address we'd like to get the data from.
+Browsers run programs that send and receive requests/responses for us. 
